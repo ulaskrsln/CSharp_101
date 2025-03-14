@@ -20,3 +20,18 @@ Otelin hizmetleri, içerikleri ve ücretleri yazılarak gelen misafirin seçtiğ
 Apartman Sakinlerini Listeleme, Yeni Üye Oluşturma, Ödenen Aidat Kaydı ve Borç Sorgulama fonksiyonalrını içeren,
 apartmana taşınan kişinin taşındığı tarihe göre aidat borcu çıkartan ve ödeme işlemi sırasında ödenecek tutar bilgisine göre boru yeniden düzenleyen bir uygulama.
 
+6- Telefon Rehberi;
+Kişileri isim, soyisim ve telefon numaraları ile kaydeden, isteğe göre arama ve silme komutları içern basit bir telefon rehberi uygulaması.
+
+7- Stok Kontrolü
+Ürünleri kategoriye göre ayırıp bu ürünlere yapılan ekleme, çıkarma işlemlerine göre mevcut stok kontrol yapan bir konsol uygulaması.
+
+8- Şifreleme sistemi
+Kullanıcı adı ve şifreleri açtığı txt dosyasında tutan ve rastgele şifreler üretebilen bir kosnol uygulaması.
+
+9- Sayıyı yazıya çevirme uygulaması
+Kullanıının girdiği sayıyı ekrana yazı olarak yazdıran bir konsol uygulaması kodu.
+
+10- ATM
+Kullanıcının bakiyesini görüntüleyebildiği, para yatırıp çekebiliği temel bir ATM tasarımı.
+
