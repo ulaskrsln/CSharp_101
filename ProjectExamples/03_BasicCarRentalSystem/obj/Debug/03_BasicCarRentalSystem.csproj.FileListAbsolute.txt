@@ -1,0 +1,7 @@
+D:\FristProjectTest\ProjectExamples\03_BasicCarRentalSystem\bin\Debug\03_BasicCarRentalSystem.exe.config
+D:\FristProjectTest\ProjectExamples\03_BasicCarRentalSystem\bin\Debug\03_BasicCarRentalSystem.exe
+D:\FristProjectTest\ProjectExamples\03_BasicCarRentalSystem\bin\Debug\03_BasicCarRentalSystem.pdb
+D:\FristProjectTest\ProjectExamples\03_BasicCarRentalSystem\obj\Debug\03_BasicCarRentalSystem.csproj.AssemblyReference.cache
+D:\FristProjectTest\ProjectExamples\03_BasicCarRentalSystem\obj\Debug\03_BasicCarRentalSystem.csproj.CoreCompileInputs.cache
+D:\FristProjectTest\ProjectExamples\03_BasicCarRentalSystem\obj\Debug\03_BasicCarRentalSystem.exe
+D:\FristProjectTest\ProjectExamples\03_BasicCarRentalSystem\obj\Debug\03_BasicCarRentalSystem.pdb

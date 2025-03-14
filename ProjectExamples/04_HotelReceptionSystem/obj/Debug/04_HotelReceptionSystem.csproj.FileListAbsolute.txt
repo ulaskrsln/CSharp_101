@@ -1,0 +1,7 @@
+D:\FristProjectTest\ProjectExamples\04_HotelReceptionSystem\bin\Debug\04_HotelReceptionSystem.exe.config
+D:\FristProjectTest\ProjectExamples\04_HotelReceptionSystem\bin\Debug\04_HotelReceptionSystem.exe
+D:\FristProjectTest\ProjectExamples\04_HotelReceptionSystem\bin\Debug\04_HotelReceptionSystem.pdb
+D:\FristProjectTest\ProjectExamples\04_HotelReceptionSystem\obj\Debug\04_HotelReceptionSystem.csproj.AssemblyReference.cache
+D:\FristProjectTest\ProjectExamples\04_HotelReceptionSystem\obj\Debug\04_HotelReceptionSystem.csproj.CoreCompileInputs.cache
+D:\FristProjectTest\ProjectExamples\04_HotelReceptionSystem\obj\Debug\04_HotelReceptionSystem.exe
+D:\FristProjectTest\ProjectExamples\04_HotelReceptionSystem\obj\Debug\04_HotelReceptionSystem.pdb

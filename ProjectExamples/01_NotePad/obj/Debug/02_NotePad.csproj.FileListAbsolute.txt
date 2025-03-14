@@ -1,0 +1,7 @@
+D:\FristProjectTest\ProjectExamples\02_NotePad\obj\Debug\02_NotePad.csproj.AssemblyReference.cache
+D:\FristProjectTest\ProjectExamples\02_NotePad\obj\Debug\02_NotePad.csproj.CoreCompileInputs.cache
+D:\FristProjectTest\ProjectExamples\02_NotePad\bin\Debug\02_NotePad.exe.config
+D:\FristProjectTest\ProjectExamples\02_NotePad\bin\Debug\02_NotePad.exe
+D:\FristProjectTest\ProjectExamples\02_NotePad\bin\Debug\02_NotePad.pdb
+D:\FristProjectTest\ProjectExamples\02_NotePad\obj\Debug\02_NotePad.exe
+D:\FristProjectTest\ProjectExamples\02_NotePad\obj\Debug\02_NotePad.pdb

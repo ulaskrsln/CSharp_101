@@ -1,0 +1,7 @@
+D:\FristProjectTest\ProjectExamples\02_Library\bin\Debug\02_Library.exe.config
+D:\FristProjectTest\ProjectExamples\02_Library\bin\Debug\02_Library.exe
+D:\FristProjectTest\ProjectExamples\02_Library\bin\Debug\02_Library.pdb
+D:\FristProjectTest\ProjectExamples\02_Library\obj\Debug\02_Library.csproj.AssemblyReference.cache
+D:\FristProjectTest\ProjectExamples\02_Library\obj\Debug\02_Library.csproj.CoreCompileInputs.cache
+D:\FristProjectTest\ProjectExamples\02_Library\obj\Debug\02_Library.exe
+D:\FristProjectTest\ProjectExamples\02_Library\obj\Debug\02_Library.pdb
