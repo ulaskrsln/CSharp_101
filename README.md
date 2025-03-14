@@ -12,11 +12,11 @@ Kullanııdan aldığı kitap bilgilerini;Kitap adı, yazarı ve türüyle birli
 Araç kiralama işi yapan şirketler için bir araç takip uygulaması. 
 Sahip olunan araçlar sisteme kayıt edilir ve kiralama işlemi sırasında kiralayan bilgileri alınarak araç plakası ve müşteri listelenir.
 
-4 – Otel Resepsiyon Sistemi
+4 – Otel Resepsiyon Sistemi;
 Otellerin resepsiyonlarına kullanılmak üzere, gelen misafirlerin bilgilerinin kayıt edildiği bir sistem . 
 Otelin hizmetleri, içerikleri ve ücretleri yazılarak gelen misafirin seçtiği ek hizmetleri kayıt ederek fiyat çalışması gibi işlemler yapabilir.
 
-5- Apartman Aidat - Üyelik Sistemi
+5- Apartman Aidat - Üyelik Sistemi;
 Apartman Sakinlerini Listeleme, Yeni Üye Oluşturma, Ödenen Aidat Kaydı ve Borç Sorgulama fonksiyonalrını içeren,
 apartmana taşınan kişinin taşındığı tarihe göre aidat borcu çıkartan ve ödeme işlemi sırasında ödenecek tutar bilgisine göre boru yeniden düzenleyen bir uygulama.
 
