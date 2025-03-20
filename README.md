@@ -35,3 +35,9 @@ Kullanıının girdiği sayıyı ekrana yazı olarak yazdıran bir konsol uygula
 10- ATM;
 Kullanıcının bakiyesini görüntüleyebildiği, para yatırıp çekebiliği temel bir ATM tasarımı.
 
+11- Login App;
+Kullanıcı adı ve şifreyi bir dosyada tutarak bu dosyadaki veriye göre giriş yapılan bir uygulama tasarımı.
+
+12-GPA hesaplayıcı;
+Kullanıcının girdiği notlara göre GPA hesabı yapan basit bir konsol uygulaması tasarımı.
+
