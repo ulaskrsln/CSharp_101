@@ -1,0 +1,7 @@
+D:\FirstProjectTest\ProjectExamples\12_GPA_Calculator\bin\Debug\12_GPA_Calculator.exe.config
+D:\FirstProjectTest\ProjectExamples\12_GPA_Calculator\bin\Debug\12_GPA_Calculator.exe
+D:\FirstProjectTest\ProjectExamples\12_GPA_Calculator\bin\Debug\12_GPA_Calculator.pdb
+D:\FirstProjectTest\ProjectExamples\12_GPA_Calculator\obj\Debug\12_GPA_Calculator.csproj.AssemblyReference.cache
+D:\FirstProjectTest\ProjectExamples\12_GPA_Calculator\obj\Debug\12_GPA_Calculator.csproj.CoreCompileInputs.cache
+D:\FirstProjectTest\ProjectExamples\12_GPA_Calculator\obj\Debug\12_GPA_Calculator.exe
+D:\FirstProjectTest\ProjectExamples\12_GPA_Calculator\obj\Debug\12_GPA_Calculator.pdb
